@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+
+  h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+  }
+
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+
+  p {
+    font-size: 20px;
+  }
+
+  a {
+    color: #11999E;
+  }
+
+  .profiler {
+    border-radius: 200%;
+  }
+
+  .profilerr {
+    font-weight: normal;
+    font-size: 50px;
+  }
+  .top-container {
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+    color: #66BFBF;
+    padding-bottom: 120px;
+
+  }
+
+  .middle-container {
+        padding-top: 10px;
+  }
+
+  .skill-row {
+    margin:100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+  }
+
+  .tennis{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .webD{
+    width:40%;
+    float: right;
+    margin-left: 30px;
+  }
+
+  .display {
+    display: block;
+  }
+
+  .bottom-cloud {
+      position: absolute;
+      left: 300px;
+      bottom: 300px;
+  }
+
+  .top-cloud {
+      position: absolute;
+      right: 300px;
+           top: 50px;
+
+
+       }
